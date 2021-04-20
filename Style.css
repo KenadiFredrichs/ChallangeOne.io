@@ -1,9 +1,4 @@
-H1 {
-    height
-    background-color: darkgrey;
-    Color: White;
-}
-
-H2 {
-    background-color: black;
+h1 {
+    border-bottom: slategrey;
+    border-top: slategrey;
 }
